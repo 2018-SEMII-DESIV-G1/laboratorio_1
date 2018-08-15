@@ -1,5 +1,5 @@
 
-# Prueba diagnóstica
+# Laboratorio #1
 
 ## I. Resolver en cualquier lenguaje de programación.
 
