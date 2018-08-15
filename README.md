@@ -23,4 +23,3 @@ Las respuestas estarán escritas en Python bajo los nombres de 001 y 002, que co
 ## Profesor
 
 Erick Agrazal
-# laboratorio_1
